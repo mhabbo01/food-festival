@@ -122,4 +122,4 @@ $(document).ready( function() {
         pageEl.appendChild(containerEl2);
         pageEl.appendChild(containerEl3);
       }
-})
+});
